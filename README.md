@@ -15,6 +15,6 @@ To run the JulyFifteen Sudoku game, ensure you have Java Development Kit (JDK) i
 | Usage |
 Upon launching the application, users can start a new game by clicking the "New Game" button. They can input numbers into the cells and check their solution by clicking the "Check Solution" button. If any errors are found, the game will highlight incorrect cells and provide feedback. Users can also click on any filled cell to highlight all matching numbers in the grid. 
 
-Edit: You can edit this code as you please. Just a reminder to credit me if you either use certain parts of my code or use it for inspiration. Thank you very much! 
+Edit: You can edit this code as you please. Just a reminder to credit me if you either use certain parts of my code or anything related to you using me code for something else. Thank you very much! 
 
 Created in 15/07/2025
