@@ -42,7 +42,7 @@ A simple yet effective **Sudoku game built in Java using Swing**. This applicati
 Then compile the project using a Java IDE (like IntelliJ or Eclipse) or the terminal:
 
 
-#🚀 Usage
+# 🚀 Usage
 New Game: Click the “New Game” button to start a fresh Sudoku puzzle.
 
 Input Numbers: Click on a cell and type a number from 1 to 9.
@@ -51,7 +51,7 @@ Check Solution: Click “Check Solution” to validate your answers. Incorrect e
 
 Highlight Numbers: Click on a filled cell to highlight all identical numbers across the grid.
 
-📄 Credits
+# 📄 Credits
 You are free to modify and use this code for your own projects or learning purposes.
 However, please credit the original creator if you use portions of the code publicly.
 
