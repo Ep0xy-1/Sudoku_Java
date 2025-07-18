@@ -2,7 +2,7 @@ import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.Random;
+import java.util.Random; 
 
 public class JulyFifteen extends JFrame {
     private static final int SIZE = 9;
