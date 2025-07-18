@@ -1,20 +1,59 @@
-# Sudoku_Java
+# 🧩 Sudoku_Java
 
-| OVERVIEW |
-The topic for July 15's code is: Sudoku.
-  This is a 'simple' but effective Sudoku game implemented in Java using the Swing Framework. The application provides a GUI for users to play the game, which uses the basic 9x9 grid wher players can input numbers from 1 to 9. The game includes functionalities to start a new game, check the solution, and highlight matching numbers for better gameplay experience.
+A simple yet effective **Sudoku game built in Java using Swing**. This application offers an interactive GUI for players to enjoy the classic 9x9 Sudoku puzzle, complete with features like highlighting, solution checking, and game generation.
 
-| FEATURE/S |
-User Interface: The game features a clean and intuitive GUI with a 9x9 grid of text fields for user input. Each cell is designed to allow only numbers from 1 to 9, and the interface is responsive to user interactions. 
-Game Logic: The game generates a valid Sudoku puzzle by filling diagonal subgrids and solving the puzzle before removing a specified number of cells to create the playable game. The solution is stored and can be checked against the user's input. 
-Highlighting Mechanism: Users can click on any cell to highlight all instances of the same number in the grid, making it easier to identify potential placements and conflicts. 
+---
 
-| Installation |
-To run the JulyFifteen Sudoku game, ensure you have Java Development Kit (JDK) installed on your machine. Clone or download the source code, and compile it using your preferred Java IDE or command line. Run the JulyFifteen class to launch the game. 
+## 📋 Overview
 
-| Usage |
-Upon launching the application, users can start a new game by clicking the "New Game" button. They can input numbers into the cells and check their solution by clicking the "Check Solution" button. If any errors are found, the game will highlight incorrect cells and provide feedback. Users can also click on any filled cell to highlight all matching numbers in the grid. 
+**Sudoku_Java** is a project created on **July 15, 2025**, as a daily challenge. It features:
 
-Edit: You can edit this code as you please. Just a reminder to credit me if you either use certain parts of my code or anything related to you using me code for something else. Thank you very much! 
+- A fully playable 9x9 Sudoku grid.
+- User input validation for digits 1 to 9.
+- New game generation with unique puzzles.
+- Solution verification with visual feedback.
+- Number highlighting for enhanced user experience.
 
-Created in 15/07/2025
+---
+
+## 🎮 Features
+
+### 🔷 User Interface
+- Intuitive 9x9 grid built using Java Swing.
+- Clean and responsive design.
+- Each cell accepts only numbers between 1 and 9.
+
+### 🧠 Game Logic
+- Automatically generates valid Sudoku puzzles.
+- Fills diagonal subgrids and solves the puzzle.
+- Randomly removes cells to make it playable.
+- Stores and validates the correct solution.
+
+### ✨ Highlighting Mechanism
+- Click on any filled cell to highlight all instances of the same number.
+- Improves pattern recognition and puzzle-solving efficiency.
+
+---
+
+## 🛠 Installation
+
+1. Make sure you have **Java Development Kit (JDK)** installed.
+2. Clone or download the project:
+Then compile the project using a Java IDE (like IntelliJ or Eclipse) or the terminal:
+
+
+#🚀 Usage
+New Game: Click the “New Game” button to start a fresh Sudoku puzzle.
+
+Input Numbers: Click on a cell and type a number from 1 to 9.
+
+Check Solution: Click “Check Solution” to validate your answers. Incorrect entries will be highlighted.
+
+Highlight Numbers: Click on a filled cell to highlight all identical numbers across the grid.
+
+📄 Credits
+You are free to modify and use this code for your own projects or learning purposes.
+However, please credit the original creator if you use portions of the code publicly.
+
+Created on 15/07/2025
+Developed by me!
